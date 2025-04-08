@@ -46,7 +46,7 @@
 ---
 
 ### 📌 [Trend_Trackers Dashboard](https://github.com/Ashutosh1020/Trend_Trackers)
-🚀 Interactive Streamlit app visualizing trending topics and patterns.  
+🚀 Interactive Power BI Dashboard Finding Pattern, Story and Insights.  
 → Tools: Python, SQL, Excel, Power BI
 
 ---
