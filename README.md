@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">Hey there, I'm Nikhil Kumar 👋</h1>
+<h1 align="center">Hey there, I'm Nikhil 👋</h1>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/134049/screenshots/2857560/media/3eb3694bb474fb5f91887fd67a780728.gif" width="700" alt="Banner GIF" />
