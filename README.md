@@ -66,16 +66,22 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Visitors
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhil9276&show_icons=true&theme=calm&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil9276&theme=calm&hide_border=true" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhil9276&theme=calm&hide_border=true&area=true" width="100%" />
-</p>
+<a href="https://github.com/nikhil9276">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhil9276&show_icons=true&theme=radical&hide_border=false&title_color=64C3D0&icon_color=F2C811&text_color=ffffff&bg_color=0d1117" width="49%" />
+</a>
+<a href="https://github.com/nikhil9276">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil9276&theme=radical&hide_border=false&ring=F2C811&fire=64C3D0&currStreakNum=ffffff&sideNums=ffffff&sideLabels=64C3D0&dates=aaaaaa" width="49%" />
+</a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhil9276&theme=react-dark&bg_color=0d1117&color=64C3D0&line=F2C811&point=ffffff&hide_border=false" width="100%" />
+
+<img src="https://komarev.com/ghpvc/?username=nikhil9276&label=Visitors&color=64C3D0&style=for-the-badge" />
+
+</div>
 
 ---
 
