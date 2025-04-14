@@ -48,9 +48,18 @@
 
 ## 🔗 Featured Projects
 
+### 📌 [ML Models Comparison Dashboard](https://github.com/nikhil9276/ML-Model-Comparison-Dashboard.git)  
+🚀 Interactive dashboard to compare machine learning models on key performance metrics  
+🔗 Live Demo → [Streamlit App](https://ml-model-comparison-dashboard.streamlit.app/)  
+→ **Tools:** Python, scikit-learn, pandas, Matplotlib, Seaborn
+
+---
+
 ### 📌 [Indian EV Market Dashboard](https://github.com/hema2781/Indian-EV-Market-Dashboard)  
 📊 A Power BI dashboard analyzing India’s electric vehicle landscape  
-→ **Tools:** Python, SQL, Power BI  
+🔗 Live Demo → [Streamlit App](https://indian-ev-market-dashboard.streamlit.app/)  
+→ **Tools:** Python, SQL, Power BI
+
 
 ---
 
