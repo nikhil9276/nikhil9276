@@ -56,7 +56,7 @@
 * **Data & Visualization:** <br>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Badge"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Badge"/>
-  <img src="https://img.shields.io/badge/Matplotlib-004D7A?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib Badge"/>
+  <img src="https://img.io/badge/Matplotlib-004D7A?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib Badge"/>
   <img src="https://img.shields.io/badge/Data%20Cleaning-blueviolet?style=for-the-badge" alt="Data Cleaning Badge"/>
   <img src="https://img.shields.io/badge/Data%20Storytelling-8E44AD?style=for-the-badge" alt="Data Storytelling Badge"/>
 
@@ -74,7 +74,7 @@
   <img src="https://img.shields.io/badge/Matplotlib-004D7A?style=flat-square&logo=plotly&logoColor=white" alt="Matplotlib Badge"/>
   <img src="https://img.shields.io/badge/Seaborn-34A853?style=flat-square&logo=seaborn&logoColor=white" alt="Seaborn Badge"/>
 
-<br />
+<hr style="border-color: #50FFB1;">
 
 ### 📌 [**Indian EV Market Dashboard**](https://github.com/hema2781/Indian-EV-Market-Dashboard)
 * 📊 **A Power BI dashboard** analyzing India’s electric vehicle landscape
@@ -84,7 +84,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=3776AB" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL Badge"/>
 
-<br />
+<hr style="border-color: #50FFB1;">
 
 ### 📌 [**Business Insights Dashboard**](https://github.com/nikhil9276/SQL-Sleuths)
 * 📈 **SQL-driven business decisions** and data visualizations
@@ -94,7 +94,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=3776AB" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI Badge"/>
 
-<br />
+<hr style="border-color: #50FFB1;">
 
 ### 📌 [**Trend_Trackers Dashboard**](https://github.com/Ashutosh1020/Trend_Trackers)
 * 🚀 **Interactive Power BI Dashboard** discovering patterns and trends
@@ -103,6 +103,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=3776AB" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL Badge"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel Badge"/>
+
+<br />
 
 ---
 
