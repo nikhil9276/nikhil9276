@@ -82,7 +82,7 @@
 * ✨ **Built with:**
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI Badge"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=3776AB" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=336791" alt="SQL Badge"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL Badge"/>
 
 <br />
 
@@ -101,7 +101,7 @@
 * ✨ **Built with:**
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI Badge"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=3776AB" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=336791" alt="SQL Badge"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL Badge"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel Badge"/>
 
 ---
@@ -128,7 +128,5 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/nikhil9276" target="_blank">
-    <img src="https://raw.githubusercontent.com/MicaelliM/micaellim/master/java/linha-code.svg" alt="Animated Footer Line"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/resources/images/line.gif" alt="Animated Footer Line"/>
 </div>
