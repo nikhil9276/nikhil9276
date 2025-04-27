@@ -56,7 +56,7 @@
 * **Data & Visualization:** <br>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Badge"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Badge"/>
-  <img src="https://img.io/badge/Matplotlib-004D7A?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib Badge"/>
+  <img src="https://img.shields.io/badge/Matplotlib-004D7A?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib Badge"/>
   <img src="https://img.shields.io/badge/Data%20Cleaning-blueviolet?style=for-the-badge" alt="Data Cleaning Badge"/>
   <img src="https://img.shields.io/badge/Data%20Storytelling-8E44AD?style=for-the-badge" alt="Data Storytelling Badge"/>
 
@@ -71,7 +71,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=3776AB" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn Badge"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas Badge"/>
-  <img src="https://img.shields.io/badge/Matplotlib-004D7A?style=flat-square&logo=plotly&logoColor=white" alt="Matplotlib Badge"/>
+  <img src="https://img.shields.io/badge/Matplotlib-004D7A?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib Badge"/>
   <img src="https://img.shields.io/badge/Seaborn-34A853?style=flat-square&logo=seaborn&logoColor=white" alt="Seaborn Badge"/>
 
 <hr style="border-color: #50FFB1;">
