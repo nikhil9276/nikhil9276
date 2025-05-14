@@ -61,7 +61,7 @@
   <img src="https://img.shields.io/badge/Data%20Storytelling-8E44AD?style=for-the-badge" alt="Data Storytelling Badge"/>
 
 ---
-
+<!-- 
 ## 🔗 Featured Projects
 
 ### 📌 [**ML Models Comparison Dashboard**](https://github.com/nikhil9276/ML-Model-Comparison-Dashboard.git)
@@ -103,6 +103,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=3776AB" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL Badge"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel Badge"/>
+-->
 
 <br />
 
