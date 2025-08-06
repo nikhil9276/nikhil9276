@@ -61,7 +61,7 @@
   <img src="https://img.shields.io/badge/Data%20Storytelling-8E44AD?style=for-the-badge" alt="Data Storytelling Badge"/>
 
 ---
-<!-- 
+
 ## 🔗 Featured Projects
 
 ### 📌 [**ML Models Comparison Dashboard**](https://github.com/nikhil9276/ML-Model-Comparison-Dashboard.git)
